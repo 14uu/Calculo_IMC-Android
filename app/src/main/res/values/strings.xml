@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculo IMC</string>
+    <string name="BMI_label">IMC</string>
+    <string name="Weight_hint">Peso (KG)</string>
+    <string name="Height_hint">Altura (M)</string>
+    <string name="Category_label">Categoria</string>
+    <string name="category_0">Abaixo do peso</string>
+    <string name="category_1">Saudavel</string>
+    <string name="category_2">Sobrepeso</string>
+    <string name="category_3">Obedidade grau 1</string>
+    <string name="category_4">Obedidade grau 2</string>
+    <string name="category_5">Obedidade mórbida</string>
+    <string name="button_calc">Calcular IMC</string>
+    <string name="pericles">Uma imagem do cantor péricles</string>
+</resources>
